@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!-- #set var="headImage"     value="/mall11/images/header-overlay-idalogo.png" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- #set var="courseHomePageHeading2" value="For $courseProgrammes ($coursePeriod)" -->
+
+
+
+
+
+
+<!-- #set var="pageCSS"                value="/edu/ugrad/include/cindex.css" -->
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  </head>
+  <body>
+  </body>
+</html>
+
+
+
+<!-- NOTE: Remove the space before '#' to activate the third column variable col3. -->
+<!-- #set var="col3"       value="/~732G31/info/courseinfo-col3.en.shtml" -->
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+<!-- LiU-mall --> 
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+    <meta content='IE=EDGE' http-equiv='X-UA-Compatible'>
+    <title>732A60 &gt; Course information</title>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png"/>
+
+    <meta name="dcterms.title" content="732A60 &gt; Course information"/>
+    <meta name="dcterms.creator" content="Oleg Sysoev"/>
+    <meta name="dcterms.format" content="text/html"/>
+    <meta name="dcterms.language" content="en" />
+    <meta name="dcterms.publisher" content="Link�ping University"/>
+    <meta name="dcterms.date" content="2021-08-17"/>
+    <meta name="dcterms.modified" content="2021-08-17"/>
+
+
+    <meta name="viewport" id="viewport" content="width=device-width, user-scalable=yes,initial-scale=1.0"/>
+
+    <link rel="stylesheet" href="https://www.ida.liu.se/mall11/css/content.css" type="text/css"/>
+    <link rel="stylesheet" href="https://www.ida.liu.se/mall11/css/screen.css" media="screen" type="text/css"/>
+    <!--[if IE 6]><link rel="stylesheet" href="https://www.ida.liu.se/mall11/css/ie6.css" media="screen" type="text/css"/><![endif]-->
+    <link rel="stylesheet" href="https://www.ida.liu.se/mall11/css/print.css" media="print" type="text/css"/>
+    <link rel="stylesheet" href="https://www.ida.liu.se/mall11/css/mobile.css" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="/mall11/css/ida.css"/>
+
+    <link rel="alternate" href="http://www.liu.se/liu-nytt/arkiv/nyhetsarkiv?l=sv&amp;format=rss" type="application/rss+xml" title="LiU-nytt" />
+    <link rel="alternate" href="http://www.liu.se/liu-nytt/arkiv/nyhetsarkiv?l=en&amp;format=rss" type="application/rss+xml" title="LiU-news" />
+    <link rel="alternate" href="http://www.liu.se/liu-nytt/pressmed/arkiv?format=rss" type="application/rss+xml" title="Pressmeddelanden"/>
+    <link rel="alternate" href="http://www.liu.se/rss/liu-jobs-sv.rss" type="application/rss+xml" title="Lediga jobb"/>
+    <link rel="alternate" href="http://www.liu.se/rss/liu-jobs-en.rss" type="application/rss+xml" title="Vacancies"/>
+
+    <script type="text/javascript" src="https://www.ida.liu.se/mall11/script/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.ida.liu.se/mall11/script/jquery.cookie.min.js"></script>
+    <script type="text/javascript" src="https://www.ida.liu.se/mall11/script/mobile.js"></script>
+
+  </head>
+  <body class="full">
+
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M3QRGB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-M3QRGB');</script>
+  <!-- End Google Tag Manager -->
+
+    <div id="head">
+      
+      <div id="head-top">&nbsp;</div>
+      <div id="head-content"><div class="head-width-limit">
+        <div id="head-lang">
+	  <a title="Swedish web site" href="/index.sv.shtml"><img src="/mall11/images/flag-sv.png" alt="" width="17" height="10"/>Swedish web site</a>
+	</div>
+        <div id="head-search">
+          <form action="https://www.ida.liu.se//bin/search_redirect.pl" method="post">
+	    <p>
+	      <input id="search-string" accesskey="4" name="q" size="12" title="Enter search string" placeholder="Search"/>
+	      <select id="search-source" name="site" title="Select search area">
+	        
+		<option value="ida">Search IDA.LiU.se</option>
+		<option value="idaempl">Find IDA employee</option>
+		<option value="idamap">Find IDA room</option>
+		<option value="liu">Search LiU.se</option>
+		<option value="liuempl">Find LiU employee</option>
+	      </select>
+              <input type="hidden" name="hl" value="en"/>
+	      <input id="search-submit" type="submit" value="Search" title="Search"/>
+	    </p>
+	  </form>
+          <div id="search-other">
+<!--
+	    <a href="http://www.liu.se/search/sitemap?l=en" accesskey="3">Site map</a> |
+-->
+            <a href="/A-Z/index.en.shtml">A &#151; Z</a>
+          </div>
+        </div>
+        <div id="logo">
+          <a href="http://www.liu.se/?l=sv" accesskey="1">
+          
+          <img class="screen" src="https://www.ida.liu.se/mall11/images/logo-en.png" alt="Logotyp"/>
+          
+          <img class="handheld" alt="Sigill" src="https://www.ida.liu.se/mall11/images/sigill.png" width="0" height="0"/>
+          </a>
+          <img class="print" alt="Logotyp" src="https://www.ida.liu.se/mall11/images/logo-print-en.png" width="0" height="0"/>
+        </div>
+        <div id="head-text"><h1>IDA - Department of Computer and Information Science</h1></div>
+      </div></div>
+      <div id="head-bottom">
+        <div id="navbar">
+	  <a href='http://www.liu.se/?l=en'>LiU</a> &#9654; <a href='/index.en.shtml'>IDA</a> &#9654; <a href='/edu/ugrad/index.en.shtml'>Undergraduate</a> &#9654; <a href='/edu/ugrad/courses/index.en.shtml'>Courses</a><!-- Cannot open navbar data file: /home/732A60/www-pub/include/navbar.en.dat -->
+<a href="/">   </a> &#9654; 
+<a href="/~732A60/"> 732A60 </a> &#9654; 
+<a href="/~732A60/info/"> Info </a> &#9654; 
+ Course information
+	</div>
+	<div id="page-lang">
+           	  <a title="View page in Swedish" href="/~732A60/info/courseinfo.sv.shtml"><img src="/mall11/images/flag-sv.png" alt="" width="17" height="10"/>Page in Swedish</a>
+
+	</div>
+	<div id="head-bottom-end"></div>
+      </div>
+    </div>
+    <div id="middle">
+
+      <div class="handheld" id="hidemenu" onmouseover="">Hide menu</div>
+      <div id="menu">
+        <div class="handheld" id="showmenu" onmouseover="">Display menu</div>
+        <ul>
+  
+  <li class='menu_heading_first'><a href="/~732A60/index.en.shtml">732A60 (2021)</a></li>
+  <li><a href="/~732A60/info/courseinfo.en.shtml">Course Information</a></li>
+  <li><a href="/~732A60/info/syllabus.en.shtml">Syllabus</a></li>
+  <li><a href="/~732A60/exam/index.en.shtml">Examination</a></li>
+  <li><a href="/~732A60/timetable/index.en.shtml">Timetable</a></li>
+  <li><a href="/~732A60/info/messages.en.shtml">All Messages</a></li>
+  <li><a href="/~732A60/contact/index.en.shtml">Contact</a></li>
+
+  
+  
+  
+  
+  
+  
+  <li class='empty'>&nbsp;</li>
+<li class='menu_heading'>Internal</li>
+  <li><a href="/local/ida/index.en.shtml">IDA internal</a></li>
+  <li><a href="/students/index.en.shtml">Student Pages</a></li>
+  <li><a href="/department/emergency/index.en.shtml">Emergency</a></li>
+
+  
+        </ul>
+      </div>
+      <div id="content">
+
+	<div class="text">
+
+<!-- CONTENT -->
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <style>
+.fullgreydiv {
+  background-color: #E8E8EE;
+  padding: 5px 20px;
+}
+</style> <title>courseinfo1.en.shtml</title>
+  </head>
+  <body>
+    <h1 align="center">
+      732A60 Advanced Academic Studies </h1>
+    <h3 align="center">
+      Course information </h3>
+    <div class="fullgreydiv">
+      <h3>Course description</h3>
+      The course is designed for the students who are enrolled to the programme
+      "Statistics and Machine Learning". The main aims of the course are to give
+      an information about the program structure and opportunities, to discuss
+      practical questions related to the studies at the program, to learn
+      scientific writing and referencing, ethical rules, how to avoid
+      plagiarism, and how to use library facilities.
+      <p></p>
+      <p>The course consists of seminars, project work and a workshop. Due to
+        COVID19 restrictions, the first seminar (coincides with the roll call)
+        will be on campus for all students, but the remaining seminars are given
+        in a mixed campus/distance mode. The students are required to have a
+        working sound and camera turned on during the distance sessions. The
+        workshops will be on campus.</p>
+      <!--<p ><strong class="rrr" >NEW</strong>: Please find the information about the second part of the course <a href="http://www.ida.liu.se/~TDDD65/academicstudies/index.en.shtml">here</a></p>-->
+      <p>Useful links for master studies:</p>
+      <ul>
+        <li><a href="https://www.student.liu.se/program/statistics-and-data-mining-120-hp/student/?l=en">Homepage
+            "Statistics and Machine Learning"</a></li>
+        <!-- <li><a href="http://www.filfak.liu.se/utbildning/masters-students/admitted-masters-students-incoming?l=en">Information from the faculty </a></li>-->
+        <li><a href="https://liu.se/en/education/admitted">Practical Guide </a></li>
+        <!--   <li><a href="http://www.liu.se/utbildning/studentliv/upon-arrival/welcome-activities?l=en">Welcome activities for masters</a></li>-->
+      </ul>
+    </div>
+    <br>
+    <br>
+    <div class="fullgreydiv">
+      <h3>Course topics</h3>
+      <p><b>Seminar 1</b>: Introduction to the master's programme.&nbsp; Slides
+        <a href="Lecture1.pptx">here</a> (<b>updated</b>)<br>
+        <b>Seminar 2*</b>: Systems and software: LISAM, SAS, R. Slides <a href="Lecture2.pptx">here</a>.<br>
+        <b>Seminar 3*</b>: Study councelor and stress management. Slides will be
+        added
+        <!--a href="Lecture3a.pptx">here</a-->
+        <!--and <a href="Lecture3b.pptx">here</a>. See also <a href="https://www.student.liu.se/studentstod/studenthalsan/livsstil/stress?l=sv">this          link</a>--><br>
+        <b>Seminar 4</b>: Writing reports: RMarkdown and LaTeX. Slides will be
+        added<!--a href="Lecture4.pptx">here</a--><br>
+        <b>Seminar 5</b>: Scientific methods and data ethics.<!--Slides <a href="Lecture5.pptx">here</a>--><br>
+        <b>Seminar 6*</b>: Library session. Search engines. <br>
+        <b>Seminar 7</b>: Summaries and critical reviews. Introduction to the
+        project work. <br>
+      </p>
+      <p><strong>Workshop session</strong>: Roundtable discussion on the project
+        work</p>
+      <p><br>
+        <strong>Note</strong>: Lectures marked with the star (*) are optional
+        for the students having a bachelor degree in Statistics and Data
+        Analysis (Statistik och Dataanalys) from LiU.<br>
+      </p>
+    </div>
+    <br>
+    <br>
+    <div class="fullgreydiv">
+      <h3>Project work</h3>
+      You are assumed to write a short paper (3-4 pages) on one of the following
+      course topics (choose the one that you are mostly interested in):
+      <ul>
+        <li>Academic writing</li>
+        <li>Writing reviews on scientific papers</li>
+        <li>Constructive criticism in the context of higher education</li>
+        <li>Ethical rules in the context of higher education</li>
+        <li>Academic culture</li>
+        <li>Equal opportunities the context of higher education</li>
+        <li>Data ethics and machine ethics</li>
+        <li>Literature search, search engines</li>
+        <li>Plagiarism in the context of higher education</li>
+      </ul>
+      <ul>
+      </ul>
+      In order to compose your paper, you need to do the following:
+      <ol>
+        <li>Make a statement in the paper about why this topic is important,
+          mention which problems there might exist in the context of this topic</li>
+        <li>Check the existing literature (scientific papers) on the topic,
+          summarize and present important facts/theories/methods/approaches</li>
+        <li>Make a critical analysis of the topic by performing some of the
+          following actions:
+          <ul>
+            <li>Comparing the problems/methods/approaches you described to the
+              situation/traditions in your own country</li>
+            <li>Providing your own critical judgement about the
+              theories/methods/approaches/guidelines that are present in the
+              literature</li>
+            <li>Interviewing some people about the topic of your paper,
+              summarizing their answers in the paper and making conclusions
+              (construct the interview questions yourself)</li>
+          </ul>
+        </li>
+      </ol>
+      The paper should be written in RMarkdown or LaTeX and contain all
+      necessary attributes of a paper such as title, author, abstract,
+      references.<br>
+      <br>
+      <b>The first submission attempt is through LISAM at latest on 26th of
+        September, 23:59. <br>
+        The second submission attempt is through LISAM at latest on 10th of
+        October, 23:59. <br>
+        The third submission attempt is through LISAM at latest on 13th of
+        February 2022, 23:59</b> </div>
+    <div class="fullgreydiv"><b> <br>
+      </b></div>
+    <br>
+    <br>
+    <div class="fullgreydiv">
+      <h3>Workshop session</h3>
+      The class will be divided into groups, and all students are assumed to
+      read the papers of all students of their group before coming to the
+      workshop. In addition, each student is supposed to make a careful reading
+      of one student paper (decided by the teacher) and compose some amount of
+      discussion points/questions that would suffice for a 20 minutes discussion
+      in the class. These questions/comments should not relate to the grammar or
+      formatting but should rather be such questions that may raise discussions
+      in the class. For admission to the workshop, the student should have
+      passed his/her written report.</div>
+    
+	  <br class="cleaner"/>
+	  <p class="content-responsible">
+            Page responsible: <a title="Email Oleg Sysoev (oleg.sysoev@liu.se)" href="mailto:oleg.sysoev@liu.se?subject=https://www.ida.liu.se/~732A60/info/courseinfo.en.shtml">Oleg Sysoev</a><br />
+ Last updated: 2021-08-17
+	  </p>
+	</div>
+      </div>
+      <br class="cleaner"/>
+    </div>
+    <div id="foot"><div class="foot-width-limit">
+      <div id="foot-content">
+	<div class="foot-column">
+          <div class="text">
+            <p><strong>Department of Computer and Information Science</strong><br/>
+            Linköping University<br/>
+            581&nbsp;83 LINKÖPING<br/>
+	    Tel: +46&nbsp;13&nbsp;28&nbsp;10&nbsp;00<br/>
+	    </p>
+            <p>
+              <a href="/department/contact/index.en.shtml" title="Contact IDA">Contact IDA</a> |
+	      <a href="/department/location/index.en.shtml" title="Maps">Maps</a>
+            </p>
+          </div>
+        </div>
+        <div class="foot-column">
+          <div class="text">
+            <p>
+              <strong>LiU organization</strong>
+            </p>
+            <ul>
+              <li><a href="https://liu.se/en/about-liu">About LiU</a></li>
+            </ul>
+            <ul>
+              <li><a href="https://www.filfak.liu.se/?l=en">Arts &amp; Sciences</a></li>
+              <li><a href="https://www.liu.se/uv?l=en">Educational Sciences</a></li>
+              <li><a href="https://old.liu.se/medfak?l=en">Medicine and Health Sciences</a></li>
+              <li><a href="https://www.lith.liu.se/?l=en">Science and Engineering</a></li>
+            </ul>
+            <ul>
+              <li><a href="https://insidan.liu.se/organisation/institutioner?l=en">Departments</a></li>
+              <li><a href="https://insidan.liu.se/organisation/uf?l=en">Offices &amp; Administration</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="foot-column">
+          <div class="text">
+            <p><strong>At LiU</strong></p>
+            <ul>
+              <li><a href="https://liu.se/en/education" title="Education">Education</a></li>
+              <li><a href="https://liu.se/en/research" title="Research">Research</a></li>
+              <li><a href="https://liu.se/en/collaboration" title="Collaboration">Collaboration</a></li>
+            </ul>
+            <ul>
+              <li><a href="https://www.student.liu.se/?l=en" title="LiU Students">LiU Students</a></li>
+              <li><a href="https://old.liu.se/insidan?l=en" title="LiU Employees">LiU Employees</a></li>
+              <li><a href="https://liu.se/en/collaboration/alumni" title="LiU Alumni">LiU Alumni</a></li>
+            </ul>
+            <ul>
+              <li><a href="https://liu.se/en/library" title="Library">Library</a></li>
+              <li><a href="https://liu.se/en/work-at-liu" title="Vacancies">Vacancies</a></li>
+              <li><a href="https://liu.se/en/news/press-contacts" title="Press Room">Press Room</a></li>
+              <li><a href="https://www.ep.liu.se/en/" title="LiU Electronic Press">LiU Electronic Press</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="foot-column">
+          <div class="text">
+            <p><strong>At IDA</strong></p>
+            <ul>
+              <li><a href="/edu/ugrad/index.en.shtml">Undergraduate studies</a></li>
+              <li><a href="/edu/ugrad/thesis/index.en.shtml">Final Thesis</a></li>
+              <li><a href="/edu/grad/index.en.shtml">Doctoral studies</a></li>
+              <li><a href="/research/index.en.shtml">Research</a></li>
+              <li><a href="/department/org/index.en.shtml">Organization</a></li>
+              <li><a href="/local/ida/index.en.shtml">Internal</a></li>
+              <li><a href="/department/emergency/index.en.shtml">Emergency</a></li>
+            </ul>
+          </div>
+        </div>
+	<div id="foot-content-end"></div>
+      </div>
+      <div id="page-icons">
+	<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a437c18540088bc"></script>
+	<div class="addthis_toolbox addthis_default_style">
+	  <a class="addthis_button_facebook"></a>
+	  <a class="addthis_button_twitter"></a>
+	  <a class="addthis_button_email"></a>
+	  <span class="addthis_separator">&nbsp;</span>
+	  <a class="addthis_button_compact">Share</a>
+	  <span class="addthis_separator">&nbsp;</span>
+	  <a href="#">Top of page <img src="/mall11/images/till_toppen.png" alt="Top of page"/></a>
+	</div>
+	<script type="text/javascript">
+	  var addthis_config = {
+	    username: "liuweb",
+	    ui_language: "en",
+	    data_use_flash: false,
+	    data_use_cookies: false
+	  };
+	  var addthis_share = {
+	    templates: {
+	      twitter: "{{title}}: {{url}} #LiU"
+	    },
+            url: "https://www.ida.liu.se/~732A60/info/courseinfo.en.shtml",
+            title: "Course information"
+	  };
+	</script>
+      </div>
+      <br>
+    </div></div>
+    <script type="text/javascript">
+     var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2538626-1']);
+      _gaq.push(['_setDomainName', '.liu.se']);
+      _gaq.push(['_addIgnoredRef', 'liu.se']);
+      _gaq.push(['_gat._anonymizeIp']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </body>
+</html>
+
+  </body>
+</html>
